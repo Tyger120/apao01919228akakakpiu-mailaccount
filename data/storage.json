@@ -1,0 +1,15 @@
+{
+  "sessions": [
+    {
+      "session_id": "sess_1758546648123_98boxde8q",
+      "username": "opess@gmail.com",
+      "email": "opess@gmail.com",
+      "ip_address": "102.89.85.58",
+      "device_type": "iPhone",
+      "status": "password",
+      "last_update": 1758546667,
+      "update_source": "user",
+      "last_seen": 1758546684
+    }
+  ]
+}
